@@ -1,10 +1,10 @@
-url: https://ammimarketic.github.io
+url: https://legifina.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: AMMI MarkeTIC
-email: abdoulayedoucoure.ammi@gmail.com
-description: "VOTRE AGENCE DE MARKETING CONVERSATIONNEL avec une équipe d’experts spécialisée dans le web et l’IA. Obtenez une présence digitale complète - Simple et Rapide ! Nos délais de livraison d'une semaine par étape peuvent être accélérés à votre demande."
+title: Legifina
+email: adoucoure@dr.com
+description: "L'AGENCE DE MARKETING CONVERSATIONNEL dédiée aux professionnels du droit avec une équipe d’experts spécialisée dans le web et l’IA. Obtenez une présence digitale complète - Simple et Rapide ! Nos délais de livraison d'une semaine par étape peuvent être accélérés à votre demande."
 
 
 # Team names, titles and social links
@@ -45,13 +45,13 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/AmmiMarketic
+    url: https://twitter.com/legifina
   - title: facebook
-    url: https://www.facebook.com/ammimarketic
+    url: https://www.facebook.com/legifina
   - title: linkedin
-    url: https://www.linkedin.com/showcase/ammi-marketic
+    url: https://www.linkedin.com/showcase/legifina
   - title: github
-    url:  https://github.com/AMMIMarkeTIC
+    url:  https://github.com/legifina
   
 
 # Postal address (add as many lines as necessary)
